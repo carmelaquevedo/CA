@@ -1,21 +1,24 @@
-MIT License
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> ariana grande </title>
+    <link rel="stylesheet" href="isabela.css">
+</head>
 
-Copyright (c) 2023 carmelaquevedo
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+<body> 
+    <header>
+        <nav>
+<a href="index.html"> home </a>
+<a href="produtos.html"> produtos </a>
+        <a href="https://youtu.be/QYh6mYIJG2Y?si=GymqKZ5M5bgmgoJ2"> clipe da ariana </a>
+        </nav>
+    </header>
+    
+    <h1> titulo 1 principal do BODY, título visual </h1>
+    <p class="7rings"> primeiro clipe bombastico dela</em> em 2007 o clipe bombou </p>
+<p class="dangerous woman">minha musica favorita</p>
+    
+    
